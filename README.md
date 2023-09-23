@@ -1,6 +1,6 @@
 # MyBike layout template with Gulp, SCSS and Stylelint
 
-  - [DEMO LINK](https://github.com/Maks-Tsarenko/MyBike-landing)
+  - [DEMO LINK](https://maks-tsarenko.github.io/MyBike-landing/)
 
 The MYBIKE landing page functions as an interactive and welcoming portal for both cycling enthusiasts and potential customers. Built with a emphasis on user experience and comfort, this website has an attractive visual design, intuitive navigation and informative content. It is designed with responsive web technology to ensure accessibility on a variety of devices, from computers to mobile phones.
 
